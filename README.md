@@ -1,5 +1,5 @@
 # Alexandr Kandrin
-my projects:
+some of my projects:
 
 [online store on react-mobx](http://sahar0k.ho.ua/ "Online store")
 
