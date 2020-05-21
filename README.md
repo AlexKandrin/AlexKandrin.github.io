@@ -5,4 +5,6 @@ some of my projects:
 
 [to-do app on react](https://alexkandrin.github.io/todoApp/ "Todo app")
 
+[simple app on react+hooks+animation+axios](http://redux-store.ho.ua/ "Link")
+
 
