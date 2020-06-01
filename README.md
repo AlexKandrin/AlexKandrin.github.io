@@ -7,6 +7,8 @@ some of my projects:
 
 [simple app on react+hooks+animation+axios](http://redux-store.ho.ua/ "Link")
 
-[js-game](http://js-game.ho.ua/ "Js-game")
+[game on JS](http://js-game.ho.ua/ "Js-game")
+
+[Game of Thrones app on React](http://game-of-thrones.ho.ua/ "Game of Thrones")
 
 
