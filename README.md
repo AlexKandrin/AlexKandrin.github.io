@@ -9,6 +9,10 @@ some of my projects:
 
 [game on JS](http://js-game.ho.ua/ "Js-game")
 
+[blog on JS](https://js-blog-2020.web.app/ "Js-blog")
+
 [Game of Thrones app on React](http://game-of-thrones.ho.ua/ "Game of Thrones")
+
+
 
 
