@@ -13,6 +13,8 @@ some of my projects:
 
 [Game of Thrones app on React](http://game-of-thrones.ho.ua/ "Game of Thrones")
 
+[balconies site (html, css,js)](http://balconies.ho.ua/ "Balconies")
+
 
 
 
